@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import '../src/index.css'
-import App from '../src/day_01/App.js'
+import App from './day_02/App_12.js'
 
 
 // 渲染根组件#root
